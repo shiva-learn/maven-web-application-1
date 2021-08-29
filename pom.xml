@@ -87,7 +87,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
-		    <url></url>http://65.0.127.249:8081/repository/maven-web-release/</url>
+		    <url>http://65.0.127.249:8081/repository/maven-web-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
